@@ -1,12 +1,8 @@
-# FPGAs: Las impresoras 3D de la electrónica ([172319GE043](https://www.juntadeandalucia.es/educacion/secretariavirtual/consultaCEP/actividad/172319GE043/))
+# Open Hardware Day
 
-## CEP Linares-Andújar
+#  FPGAs libres: IceZum Alhambra
 
-### José Antonio Vacas @javacasm
-
-### 30/1/2017
-
-## [https://github.com/javacasm/FPGAs_Linares](https://github.com/javacasm/FPGAs_Linares)
+## José Antonio Vacas @javacasm
 
 ![Licencia CC](./images/Licencia_CC.png)
 
