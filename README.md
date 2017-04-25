@@ -44,4 +44,4 @@ Estas herramientas y diseños tiene un evidente uso docente, demostrando que ya 
   * Herramientas de línea de comandos
   * Herramientas visuales
 
-![iceStudio](https://github.com/FPGAwars/icestudio/raw/develop/doc/images/icestudio-0.2-project.png?raw=true)
+![icestudio](http://fpgawars.github.io/img/projects/icestudio.png)
