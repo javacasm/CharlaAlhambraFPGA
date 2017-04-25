@@ -19,7 +19,7 @@ Es una placa totalmente [libre (Open Hardware)](https://github.com/FPGAwars/icez
 
 ## Orígenes
 
-* Juan Gonzalez (Obijuan)
+* Juan González (Obijuan)
 * Eladio Delgado: diseñador y constructor de la placa
 * Jesús Arroyo: desarrollador del software
 
